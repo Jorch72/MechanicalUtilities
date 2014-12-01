@@ -1,0 +1,9 @@
+tile.hydroGen.Basic.name=HydroElectric Generator
+tile.hydroGen.LV.name=Overclocked HydroElectric Generator
+tile.hydroGen.MV.name=TurboCharged HydroElectric Generator
+tile.levTubeController.name=Tube Controller
+tile.levTube.Glassy.name=Transparent Tube Structure
+tile.levTube.normal.name=Tube Structure
+tile.composter.name=Composter
+
+item.detectionrod.name=Prospector's Pick
